@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JasonJiang&#39;s blog</title>
+  
+  <subtitle>积步致千里，做个行动派！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-14T08:34:49.484Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>JasonJiang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在线图床</title>
+    <link href="http://yoursite.com/2020/05/14/article002/"/>
+    <id>http://yoursite.com/2020/05/14/article002/</id>
+    <published>2020-05-13T17:46:16.000Z</published>
+    <updated>2020-05-14T08:34:49.484Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="在线图床"><a href="#在线图床" class="headerlink" title="在线图床"></a>在线图床</h2><p>可以在Github/Gitee/SM-MS上搭建属于自己的在线图床。</p><a id="more"></a><h3 id="同步上传Github："><a href="#同步上传Github：" class="headerlink" title="同步上传Github："></a>同步上传Github：</h3><p><img src="https://cdn.jsdelivr.net/gh/JasonJ1ang/picbed/img/mnclub_top.png" alt="mnclub"></p><p><img src="https://cdn.jsdelivr.net/gh/JasonJ1ang/picbed/img/100le_top.png" alt="100le_top"></p><h3 id="同步上传到Gitee："><a href="#同步上传到Gitee：" class="headerlink" title="同步上传到Gitee："></a>同步上传到Gitee：</h3><p><img src="https://gitee.com/JasonJ1ang/picbed/raw/master/img/100club_top.png" alt="100club"></p><h3 id="同步到SM-MS："><a href="#同步到SM-MS：" class="headerlink" title="同步到SM-MS："></a>同步到SM-MS：</h3><p><img src="https://i.loli.net/2020/04/15/7iF4rAnvXUh9Tej.png" alt="coderclub"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;在线图床&quot;&gt;&lt;a href=&quot;#在线图床&quot; class=&quot;headerlink&quot; title=&quot;在线图床&quot;&gt;&lt;/a&gt;在线图床&lt;/h2&gt;&lt;p&gt;可以在Github/Gitee/SM-MS上搭建属于自己的在线图床。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="图床" scheme="http://yoursite.com/categories/%E5%9B%BE%E5%BA%8A/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Typoa编写博客文章</title>
+    <link href="http://yoursite.com/2020/04/16/article001/"/>
+    <id>http://yoursite.com/2020/04/16/article001/</id>
+    <published>2020-04-15T23:53:58.000Z</published>
+    <updated>2020-05-14T08:31:21.720Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome!"></a>Welcome!</h1><p>It’s my first time to post the first article edited by <strong>Typora</strong>. It’s very very famous in the coding club. So I want to have a try.</p><a id="more"></a><h2 id="第一段标题"><a href="#第一段标题" class="headerlink" title="第一段标题"></a>第一段标题</h2><p><code>我的博客</code>：<a href="http:www.100le.top">小羊社区</a> ，欢迎大家访问，并对我的博客提出<strong>宝贵意见</strong>。</p><h2 id="第二段标题"><a href="#第二段标题" class="headerlink" title="第二段标题"></a>第二段标题</h2><!--这里写一段代码--><p>&lt;?php<br>​    echo ‘Hello World!’;<br>?</p><h2 id="第三段标题"><a href="#第三段标题" class="headerlink" title="第三段标题"></a>第三段标题</h2><p>//好像标题和链接直接手打识别不了，少数可以被识别(加粗、斜体…)</p><p>质量方程：<br>$$<br>E=mc^2;<br>$$</p><h2 id="第四段标题"><a href="#第四段标题" class="headerlink" title="第四段标题"></a>第四段标题</h2><p>插入一张图片</p><p>同步上传到Github：</p><p><img src="https://cdn.jsdelivr.net/gh/JasonJ1ang/picbed/img/mnclub_top.png" alt="mnclub"></p><p>…</p><p><img src="https://cdn.jsdelivr.net/gh/JasonJ1ang/picbed/img/100le_top.png" alt="100le_top"></p><p>同步上传到Gitee：</p><p><img src="https://gitee.com/JasonJ1ang/picbed/raw/master/img/100club_top.png" alt="100club"></p><p>…</p><p>同步到SM-MS：</p><p><img src="https://i.loli.net/2020/04/15/7iF4rAnvXUh9Tej.png" alt="coderclub"></p><p>…</p><h6 id="第六段标题"><a href="#第六段标题" class="headerlink" title="第六段标题"></a>第六段标题</h6><p><img src="https://cdn.jsdelivr.net/gh/JasonJ1ang/picbed/img/Hakvn7Smqcfy8rF.png" alt="aaa"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome!&quot;&gt;&lt;/a&gt;Welcome!&lt;/h1&gt;&lt;p&gt;It’s my first time to post the first article edited by &lt;strong&gt;Typora&lt;/strong&gt;. It’s very very famous in the coding club. So I want to have a try.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="typora" scheme="http://yoursite.com/tags/typora/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/04/15/start/"/>
+    <id>http://yoursite.com/2020/04/15/start/</id>
+    <published>2020-04-15T13:40:22.000Z</published>
+    <updated>2020-05-14T08:35:16.162Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info1: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info1: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info1: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info1: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
